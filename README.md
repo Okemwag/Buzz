@@ -1,16 +1,22 @@
-# buzz
+# Flutter Music App
 
-A new Flutter project.
+A simple music app built with Flutter and using the BLoC state management pattern.
+
+## Features
+
+- **Song Loading:** Load and display a list of songs in the app.
+- **BLoC State Management:** Utilizes the BLoC pattern for efficient state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Okemwag/Buzz.git
+   ```
